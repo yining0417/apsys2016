@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 7th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2016) 
+email: TODO
+description: > # this means to ignore newlines until "baseurl:"
+  APSys 2016 is a lively forum for systems researchers and practitioners across
+  the world to meet, interact, and collaborate with their peers from the
+  Asia/Pacific region.
+baseurl: "/apsys2016" # the subpath of your site, e.g. /blog
+url: "http://www.cs.hku.hk"# the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
