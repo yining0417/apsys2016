@@ -3,6 +3,7 @@ layout: default
 title: Registration
 permalink: registration.html
 order: 50 
+enbale: off
 ---
 <!---
 Date: 28 Feb 2016

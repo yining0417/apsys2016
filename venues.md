@@ -3,6 +3,7 @@ layout: default
 title: Venues 
 permalink: venues.html
 order: 60
+enable: off
 ---
 <!---
 Date: 28 Feb 2016

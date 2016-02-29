@@ -3,6 +3,7 @@ layout: default
 title: Overview
 permalink: index.html
 order: 10 
+enable: on
 ---
 
 <!---

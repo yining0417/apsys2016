@@ -3,6 +3,7 @@ layout: default
 title: Call For Papers
 permalink: call_for_papers.html
 order: 20 
+enable: on
 ---
 
 <!---
