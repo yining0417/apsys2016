@@ -46,8 +46,8 @@ Submissions can be made online at [www.ap-sys.org](www.ap-sys.org) (the submissi
 
 # Important Dates
 
-* Abstract due: April 30, 2016 (23:59 GMT)
-* Submission due: May 6. 2016 (23.59 GMT)
+* Abstract due: May 13, 2016 (23:59 GMT)
+* Submission due: May 20. 2016 (23.59 GMT)
 * Notification to authors: June 23, 2016
 * Shepherd deadline: July 7, 2016
 * Camera-ready due: July 14, 2016

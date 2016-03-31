@@ -19,11 +19,12 @@ predecessors in
 [New Delhi, India](http://conferences.sigcomm.org/sigcomm/2010/APSys.php);
 [Shanghai, China](http://apsys11.ucsd.edu/);
 [Seoul, South Korea](http://apsys2012.kaist.ac.kr/);
-[Singapore](http://apsys13.sutd.edu.sg/),
-[Beijing, China](http://acs.ict.ac.cn/apsys2014/), and [Tokyo, Japan](http://www.sslab.ics.keio.ac.jp/apsys2015/).
+[Singapore](http://apsys13.sutd.edu.sg/);
+[Beijing, China](http://acs.ict.ac.cn/apsys2014/) and [Tokyo, Japan](http://www.sslab.ics.keio.ac.jp/apsys2015/).
 APSys 2016 will continue to be a lively
 forum for systems researchers and practitioners across the world to meet, interact, and
-collaborate with their peers from the Asia/Pacific region.
+collaborate with their peers from the Asia/Pacific region. The 2016 ACM APsys will be held in [Hong
+Kong, China](http://www.cs.hku.hk/apsys2016/) from August 4-5, 2016.
 We take a broad view of computer systems, and solicit papers on topics such as:
 
 * Operating systems, their interaction with hardware architecture and programming languages, and vice versa
@@ -48,8 +49,8 @@ See [Call for Papers in HTML](call_for_papers.html) or [PDF]({{site.baseurl}}/as
 
 # Important Dates
 
-* Abstract due: April 30, 2016 (23:59 GMT)
-* Submission due: May 6. 2016 (23.59 GMT)
+* Abstract due: May 13, 2016 (23:59 GMT)
+* Submission due: May 20. 2016 (23.59 GMT)
 * Notification to authors: June 23, 2016
 * Shepherd deadline: July 7, 2016
 * Camera-ready due: July 14, 2016
