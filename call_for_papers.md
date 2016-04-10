@@ -55,19 +55,17 @@ Submissions can be made online at [www.ap-sys.org](www.ap-sys.org) (the submissi
 
 # Organizers
 
-* TBC
-
-# General Chairs
+## General Chairs
 
 * Heming Cui (University of Hong Kong, Hong Kong, China)
 * Francis Lau (University of Hong Kong, Hong Kong, China)
 
-# Program Chairs
+## Program Chairs
 
 * Sorav Bansal (IIT Delhi, India)
 * Lin Zhong (Rice University, USA)
 
-# Program Committee
+## Program Committee
 
 * Varsha Apte (IIT Bombay, India)
 * Rajesh Balan (Singapore Management University, Singapore)
@@ -92,13 +90,13 @@ Submissions can be made online at [www.ap-sys.org](www.ap-sys.org) (the submissi
 * Lin Tan (University of Waterloo, Canada)
 * Xi Wang (University of Washington, USA)
 
-# Steering Committee
+## Steering Committee
 
 * Lorenzo Alvisi (University of Texas at Austin, USA, Co-Chair)
 * Haibo Chen (Shanghai Jiao Tong University, China, Co-Chair)
 * Kenji Kono (Keio University, Japan)
-* KyoungSoo Park (KAIST and SK Telecom, South Korea)
+* KyoungSoo Park (KAIST, South Korea)
 * Robbert Van Renesse (Cornell Universtiy, USA)
-* Satya Mahadev Satyanarayanan (Carnegie Mellon University, USA)
+* Mahadev Satyanarayanan (Carnegie Mellon University, USA)
 * Junfeng Yang (Columbia University, USA)
 * Yuanyuan Zhou (UC San Diego, USA)
