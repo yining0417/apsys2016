@@ -11,6 +11,7 @@ Date: 28 Feb 2016
 Author: Jingyu Yang
 Purpose: To build a website for APSys 2016 for Dr. Cui.
 Copy From: Takahiro, who is the author of APSys2015.
+Last Modified: 7 May 2016
 --->
 
 # Call for Papers
@@ -40,9 +41,10 @@ APSys is a vibrant forum for systems researchers and practitioners across the wo
 The workshop favors works with an experimental flavor such as measurement and prototyping.
 
 # Submission Guidelines
-Submissions should be six or fewer pages in length excluding references, formatted in standard ACM two-column conference style with 10-pt font size. Reviewing is single-blind, and the authors should have their names and affiliations in the first page of the paper. A submission may present preliminary results, propose a new research direction, provide insightful retrospective, or offer a provocative viewpoint on an important systems topic. Papers will be selected based on their likelihood of generating insightful technical discussions at the workshop and influencing future systems research. Relevant attributes include originality, technical merit, clarity, and technical relevance. Accepted papers will appear in the proceedings of the workshop, which will be published in the ACM Digital Library. Consistent with standard scholarly practice, the authors should not have substantially similar work in review anywhere else.
 
-Submissions can be made online at [www.ap-sys.org](www.ap-sys.org) (the submission link will be operational near the deadline).
+Submissions should be six or fewer pages in length excluding references, formatted in standard ACM two-column conference style with 10-pt font size. Reviewing will be *double-blind* : no author or affiliation information should appear in the submission. The authors should additionally follow the best practice in order not to disclose their identities implicitly. A submission may present preliminary results, propose a new research direction, provide insightful retrospective, or offer a provocative viewpoint on an important systems topic. Papers will be selected based on their likelihood of generating insightful technical discussions at the workshop and influencing future systems research. Relevant attributes include originality, technical merit, clarity, and technical relevance. Accepted papers will appear in the proceedings of the workshop, which will be published in the ACM Digital Library. Consistent with standard scholarly practice, the authors should not have substantially similar work in review anywhere else.
+
+Submissions can be made online at [https://apsys2016.rice.edu](https://apsys2016.rice.edu)
 
 # Important Dates
 
@@ -59,6 +61,14 @@ Submissions can be made online at [www.ap-sys.org](www.ap-sys.org) (the submissi
 
 * Heming Cui (University of Hong Kong, Hong Kong, China)
 * Francis Lau (University of Hong Kong, Hong Kong, China)
+
+## Publication Chairs
+
+* Henry Xu (City University of Hong Kong, Hong Kong, China)
+
+## Poster Chairs
+
+* Wei Xu (Tsinghua University, Beijing, China)
 
 ## Program Chairs
 
