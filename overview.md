@@ -44,7 +44,7 @@ We take a broad view of computer systems, and solicit papers on topics such as:
 * Experience with deployed systems
 * Application of interesting research ideas to computer systems, such as machine learning, stochastic modeling, new algorithms.
 
-See [Call for Papers in HTML](call_for_papers.html) or [PDF]({{site.baseurl}}/assets/APSys16CFP.pdf) for details.
+Please note that all submissions must be <b>double-blind</b>. See [Call for Papers in HTML](call_for_papers.html) or [PDF]({{site.baseurl}}/assets/APSys16CFP.pdf) for details.
 
 
 # Important Dates
