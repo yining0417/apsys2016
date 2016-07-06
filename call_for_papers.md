@@ -51,7 +51,7 @@ Submissions can be made online at [https://apsys2016.rice.edu](https://apsys2016
 * Abstract due: May 13, 2016 (23:59 GMT)
 * Submission due: May 20. 2016 (23.59 GMT)
 * Notification to authors: June 23, 2016
-* Shepherd deadline: July 7, 2016
+* Shepherd deadline: July 12, 2016
 * Camera-ready due: July 14, 2016
 * Workshop: August 4-5, 2016
 
@@ -62,13 +62,21 @@ Submissions can be made online at [https://apsys2016.rice.edu](https://apsys2016
 * Heming Cui (University of Hong Kong, Hong Kong, China)
 * Francis Lau (University of Hong Kong, Hong Kong, China)
 
-## Publication Chairs
+## Industry Collaboration Chairs
 
-* Henry Xu (City University of Hong Kong, Hong Kong, China)
+* Vincent Lau (Applied Science and Technology Research Institute, Hong Kong, China)
+
+## Local Arrangement Chairs
+
+* Bruno Oliveira (University of Hong Kong, Hong Kong, China)
 
 ## Poster Chairs
 
 * Wei Xu (Tsinghua University, Beijing, China)
+
+## Publication Chairs
+
+* Henry Xu (City University of Hong Kong, Hong Kong, China)
 
 ## Program Chairs
 

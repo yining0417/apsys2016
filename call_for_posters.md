@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call For Posters / Demos
+title: Call For Posters
 permalink: call_for_posters.html
 order: 30 
 enable: on
@@ -27,8 +27,8 @@ novel computer systems.
 
 # Important Dates
 
-- Submission due: July 6, 2016 (23:59 GMT)
-- Notification: July 8, 2016
+- Submission due: July 12, 2016 (23:59 GMT)
+- Notification: July 14, 2016
 - Workshop: August 4-5, 2016
 
 # Poster Chair
@@ -41,8 +41,8 @@ Submissions must include an extended abstract no longer than one 8.5×1-1inch
 page, including all figures and references. Submissions must
 be made electronically in an email message to the Poster Chair at:
 
-- mailto: to be announced soon
-- subject line for posters: "APSYS POSTER SUBMISSION"
+- mailto: [apsys16@iiis.systems](mailto:apsys16@iiis.systems)
+- subject line for posters: NAME OF FIRST AUTHOR (e.g., TOM CRUISE)
 
 The body of the email should include the title of the poster and the author
 list, including affiliations. The abstract should be attached in PDF format.
@@ -58,8 +58,8 @@ We use your poster abstract only for posting it on the APSys2016
 homepage. We do not use it for any other purposes. There is no copyright
 transfer. You keep the copyright of your manuscript.
 
-If you agree, upload the final version of your poster abstract from the
-below link by *August 15th*. It must be a single-page PDF. A 8.5x11-inch,
+If you agree, send the final version of your poster abstract to the
+below email address by *July 24th*. It must be a single-page PDF. A 8.5x11-inch,
 double-columns format with 10pt fonts is recommended (not mandatory).
 For those who used the ACM template, please remove the footnote of ACM's
 DOI and copyright notice.
@@ -67,9 +67,8 @@ DOI and copyright notice.
 It is optional for you to put your abstract online. If you skip it,
 please let us know.
 
-The URL for uploading: to be announced soon.
-
-[https://](https://)
+mailto:
+[apsys16+final@iiis.systems](mailto:apsys16+final@iiis.systems)
 
 # Poster Instruction
 

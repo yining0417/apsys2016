@@ -46,12 +46,32 @@ We take a broad view of computer systems, and solicit papers on topics such as:
 
 Please note that all submissions must be <b>double-blind</b>. See [Call for Papers in HTML](call_for_papers.html) or [PDF]({{site.baseurl}}/assets/APSys16CFP.pdf) for details.
 
+# Keynote Speakers
+
+<div style="background-color:#eaeaea; margin:2em 0;border-radius:8px;">
+<div style="padding:8px; padding-right:15px; width:26%; float:left;">
+<img style="border-style: solid;border-width: 4px;border-color: #ffffff;" src="{{site.baseurl}}/assets/speaker.jpg" />
+</div>
+<div style="padding:1em 1em;text-align:left;">
+<h2 >Ben Pfaff</h2>
+<p>Ben Pfaff is a lead developer of the Open vSwitch project and led the
+development effort of the OpenFlow reference implementation.  He was a
+founding employee at Nicira and is currently at VMware.  He received his
+PhD from Stanford University in 2007.  Ben has worked in free and open
+source software projects, including Debian and GNU, for over 20 years.
+Ben is a Senior Member of ACM and a Fellow of the Open Networking
+Foundation.</p>
+
+
+</div>
+</div>
+
 
 # Important Dates
 
 * Abstract due: May 13, 2016 (23:59 GMT)
 * Submission due: May 20. 2016 (23.59 GMT)
 * Notification to authors: June 23, 2016
-* Shepherd deadline: July 7, 2016
+* Shepherd deadline: July 12, 2016
 * Camera-ready due: July 14, 2016
 * Workshop: August 4-5, 2016
